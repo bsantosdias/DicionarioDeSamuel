@@ -1,2 +1,3 @@
 # DicionarioDeSamuel
-Projeto criado no segundo semestre de TADS para treinar manipulação de vetores e busca binaria. 
+
+Programa que lê todas as palavras em um arquivo txt (sem diferencias letras maiúsculas ou minúsculas), verifica palavras repetidas a partir de busca binaria e armazena, de forma alfabética, as que não são repetidas em um vetor. 
